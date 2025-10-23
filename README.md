@@ -15,7 +15,7 @@ SAAD-SR is designed to evaluate object detection robustness in aerial scenarios 
 ---
 ## SAD-SR dataset 
 samples from SAAD-SR dataset
-![GUI](assets/4.jpg)
+![GUI](assests/4.jpg)
 
 ## 🔗 Dataset Download
 
@@ -71,7 +71,7 @@ python3 gui.py
 
 ```
 
-![GUI](assets/3.png)
+![GUI](assests/3.png)
 
 
 Launches an interactive labeling tool:
