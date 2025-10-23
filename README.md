@@ -147,3 +147,19 @@ python3 YOLO-SR/SRI.py
 
 
 ```
+
+## 🧾 Citation
+
+If you use this dataset or benchmark in your research, please cite:
+
+> **Shin, Soo Young and Imad, Muhammad and Imad, Muhammad and Imad, Muhammad**,  
+> *Saad-SR: A Scale-Aware Aerial Benchmark for Learning Robust Object Representations Under UAV-Induced Scale Shifts.*  
+> Available at SSRN: [https://ssrn.com/abstract=5388579](https://ssrn.com/abstract=5388579)  
+> or [http://dx.doi.org/10.2139/ssrn.5388579](http://dx.doi.org/10.2139/ssrn.5388579)
+
+```bibtex
+@article{shin5388576saad,
+  title={Saad-Sr: A Scale-Aware Aerial Benchmark for Learning Robust Object Representations Under Uav-Induced Scale Shifts},
+  author={Shin, Soo Young and Imad, Muhammad},
+  journal={Available at SSRN 5388576}
+}
